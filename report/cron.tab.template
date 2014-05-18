@@ -1,2 +1,0 @@
-*/5 * * * * exec >> ~/cron.log
-#*/1 * * * * /home/keyi/host_daemon.sh >> ~/cron.log
